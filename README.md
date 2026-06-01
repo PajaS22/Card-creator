@@ -1,4 +1,4 @@
-# CardCreator Tutorial
+# Card-Creator Tutorial
 
 ## Overview
 
