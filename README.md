@@ -49,10 +49,10 @@ border_width=10
 
 ## Step 3: Generate Cards
 
-Run the `SVM_CardCreator.py` script to create cards:
+Run the `CardCreator.py` script to create cards:
 
 ```python
-python [SVM_CardCreator.py](http://_vscodecontentref_/0)
+python CardCreator.py
 ```
 
 The cards will be saved as PNG files in the `Output` directory.
@@ -74,7 +74,7 @@ This will create:
 
 1. Prepare your mycards.csv file and images.
 2. Configure config.ini with your settings.
-3. Run SVM_CardCreator.py to generate cards.
+3. Run CardCreator.py to generate cards.
 4. Run layout_images.py to create printable layouts.
 
 ### Output
